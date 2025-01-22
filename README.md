@@ -13,15 +13,15 @@
 ## Konfiguracja projektu
 
 ```bash
-$ yarn
+yarn
 ```
 
 ```bash
-$ yarn build
+yarn build
 ```
 
 ```bash
-$ docker-compose up
+docker-compose up
 ```
 
 Aplikacja będzie dostępna pod adresem:
